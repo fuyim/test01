@@ -7,6 +7,7 @@ public class MyTest01 {
     }
 
     static class Student{
-
+        private String username;
+        private String password;
     }
 }
